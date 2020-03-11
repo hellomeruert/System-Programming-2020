@@ -1,0 +1,3 @@
+1. Go the directory and run - make
+2. Insert module using  - insmod sis1.ko (to unload - rmmod sis1)
+3. To see the keys use - cat /sys/kernel/debug/kisni/keys (you should use superuser premission - "sudo -s"
