@@ -1,1 +1,2 @@
-# System-Programming-2020
+Course on system programming at Kazakh-British Technical university.
+Spring 2020.
